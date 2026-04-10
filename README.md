@@ -1,7 +1,7 @@
 # Mint Credit Review Preparation AI Agent
 
 **Case Study:** Mint AI Engineer Recruitment – Credit Review Preparation Agent for Banker Workbench  
-**Date:** 04/10/2026
+**Date:** 04/10/2026 
 **Tech Stack:** Azure AI Foundry (primary), Python Azure Functions, Microsoft Graph, Azure Document Intelligence, SharePoint Embedded, Azure Blob Storage
 
 ## Project Goal
