@@ -1,2 +1,12 @@
-# ai-engineer-case-study-credit-review-agent
-Microsoft Azure AI Foundry implementation of the Mint AI Engineer Case Study – Credit Review Preparation Agent for Banker Workbench (27 Nov 2025). Fully cloud-native AI agent using Azure AI Foundry, Microsoft Graph, Azure Blob Storage, SharePoint Embedded, and Python.
+# Mint Credit Review Preparation AI Agent
+
+**Case Study:** Mint AI Engineer Recruitment – Credit Review Preparation Agent for Banker Workbench  
+**Date:** 27 November 2025  
+**Tech Stack:** Azure AI Foundry (primary), Python Azure Functions, Microsoft Graph, Azure Document Intelligence, SharePoint Embedded, Azure Blob Storage
+
+## Project Goal
+Fully automated pre-screen credit assessment agent as defined in the case study (section 2.2).
+
+## Quick Start
+- See `specs/plan.md` for architecture
+- See `docs/runbook.md` for deployment
